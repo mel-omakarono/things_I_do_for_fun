@@ -1,4 +1,4 @@
-#Kanji Lookup
+# Kanji Lookup
 
 This code is used to simplify my kanji lookup process. 
 
